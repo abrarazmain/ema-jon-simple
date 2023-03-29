@@ -1,25 +1,22 @@
-.cart{
-    background-color: #FFE0B3;
-    margin-right: 20px;
-padding: 25px;
-position: sticky;
-top: 0;
+.cart {
+  background-color: #ffe0b3;
+  margin-right: 20px;
+  padding: 25px;
+  position: sticky;
+  top: 0;
 }
 
-.cart-title{
-    font-family: 'Lato';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 30px;
-color: #1C2B35;
-text-align: center;
-padding-bottom: 30px;
-font-weight: 700;
-
-
-
+.cart-title {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #1c2b35;
+  text-align: center;
+  padding-bottom: 30px;
+  font-weight: 700;
 }
 .cart p {
-    font-size: 20px;
+  font-size: 20px;
 }
